@@ -1,0 +1,22 @@
+   0 whoami
+   1 pwd
+   2 ls
+   3 ls -a
+   4 ls -l
+   5 mkdir /home/user1/task1
+   6 mkdir -p /home/user1/task1
+   7 ls
+   8 nejnke
+   9 touch /home/user1/task1/file1.txt
+  10 tree
+  11 tree /home/
+  12 ls /
+  13 cp /home/user1/task1/file1.txt /opt/file2.txt
+  14 cp --help
+  15 cp /home/ /tmp/
+  16 ls /opt/
+  17 mv /opt/file2.txt /opt/111
+  18 ls /opt/
+  19 rmdir --help
+  20 history
+  21 history > history.txt
